@@ -1,0 +1,23 @@
+Windows x Linux
+
+dir	ls (Listagem de diretórios)
+dir	ls -a (Listagem de diretórios ocultos)
+
+cd	cd (Entrar em pasta)
+
+cd .. 	cd .. (Retroceder 1 nivel na navegação)
+
+cls	clear (Limpar tela)
+
+mkdir	mkdir (Criar uma pasta (colocar o nome da pasta na frente))
+
+echo Olá > hello.txt (Colocando a palavra Ola em um .txt que é criado caso não exista) - Win&Lin
+
+Win:
+del (Deletar arquivos, se passar uma pasta todos seus itens são excluídos)
+
+rmdir nomepasta /S /Q (remover pastas)
+
+Lin:
+rm -rf nomepasta (Força remover a pasta com todas as pastas que possui dentro)
+
